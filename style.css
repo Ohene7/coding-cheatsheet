@@ -1,0 +1,69 @@
+
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: Cornflowerblue;
+}
+
+#header {
+  width: 200px;
+  height: 100px;
+  margin: 0px auto;
+  background-color: lightpink;
+  border: 5px lightblue solid;
+}
+
+h1 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: #fff;
+
+}
+
+p > code {
+  background-color: lavender;
+  font-size: 18px;
+}
+
+.container {
+  margin: 0;
+  padding: 0;
+  border: 2px black solid;
+  background-color: lightblue;
+  width: 600px;
+  margin: auto;
+}
+
+.container table {
+  margin: 20px auto;
+}
+
+.container code {
+  font-family: monospace;
+  background-color: #fff;
+}
+
+.container tr {
+  border-bottom: 5px black solid;
+}
+
+.container th {
+  background-color: lightpink;
+  padding: 5px;
+}
+
+.container td {
+  line-height: 1.4;
+  background-color: lavender;
+  padding: 5px;
+}
+
+#footer {
+  text-align: center;
+  background-color: #fff;
+  text-transform: uppercase;
+}
+
+table {
+  width: 600px;
+}
